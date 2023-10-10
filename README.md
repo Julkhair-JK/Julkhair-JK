@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&duration=1700&pause=1000&color=09F73E&background=CD0C2700&center=true&vCenter=true&width=500&separator=%3C&lines=%F0%9F%91%8B+Hello!+Gay's;%3CGreat+to+connect+with+you...%F0%9F%98%83%3CI'm+Nyazi+Mohammed+Julkhair+Naine+Khan%2C%F0%9F%98%8E%3C+a+Full+Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB.%3CA+Portal+to+My+Virtual+Coding+%F0%9F%8C%8D!%3CWelcome+to+my+Github+Island+%F0%9F%91%8B.)](https://www.linkedin.com/in/nyazi-julkhair-naine-khan-3a18a2210/)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&duration=1700&pause=1000&color=09F73E&background=CD0C2700&center=true&vCenter=true&width=500&separator=%3C&lines=%F0%9F%91%8B+Hello!+Guy's;%3CGreat+to+connect+with+you...%F0%9F%98%83%3CI'm+Nyazi+Mohammed+Julkhair+Naine+Khan%2C%F0%9F%98%8E%3C+a+Full+Stack+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB.%3CA+Portal+to+My+Virtual+Coding+%F0%9F%8C%8D!%3CWelcome+to+my+Github+Island+%F0%9F%91%8B.)](https://www.linkedin.com/in/nyazi-julkhair-naine-khan-3a18a2210/)
 - 👋 Hi, I’m @Julkhair-JK
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning ...
